@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Places Search</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="search_title">SEARCH</string>
+    <string name="favorite_title">FAVORITE</string>
+    <string name="keyword_text">Keyword</string>
+    <string name="keyword_indicate">Enter Keyword</string>
+    <string name="category_text">Category</string>
+    <string name="distance_text">Distance(in miles)</string>
+    <string name="distance_indicate">Enter distance(default 10 miles)</string>
+    <string name="from_text">From</string>
+    <string name="current_radio_text">Current location</string>
+    <string name="other_radio_indicate">Other.Specify Location</string>
+    <string name="location_indicate">Type in the location</string>
+    <string name="search_button">Search</string>
+    <string name="clear_button">Clear</string>
+    <string name="app_name_mine">Places Search</string>
+    <string name="warning_info">Please enter mandatory field</string>
+    <string name="title_location_permission">Require Permission</string>
+    <string name="text_location_permission">Allow Places Search to access this device\'s location?</string>
+    <string name="ok">OK</string>
+    <string name="search_results">Search Results</string>
+    <string name="next">NEXT</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone Number</string>
+    <string name="price">Price Level</string>
+    <string name="rating">Rating</string>
+    <string name="google">GooglePage</string>
+    <string name="website">Website</string>
+
+    <string-array name="gOrY">
+        <item>Google reviews</item>
+        <item>Yelp reviews</item>
+    </string-array>
+
+    <string-array name="order">
+        <item>Default Order</item>
+        <item>Highest Rating</item>
+        <item>Lowest Rating</item>
+        <item>Most Recent</item>
+        <item>Least Recent</item>
+    </string-array>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">LAY8rSfVIcB8qgxSrGFhz6D9G</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">liOIRimMOH2M0ZOXgXZvubY0h3HUqnlU2j2AlXNaxG0oDijXY7</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
